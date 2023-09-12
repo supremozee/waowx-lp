@@ -11,7 +11,6 @@ const Home = () => {
     <GetStarted />
     <GetInTouch />
     <Footer />
-
     </>
 
   )

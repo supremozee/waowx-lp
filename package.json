@@ -1,7 +1,7 @@
 {
   "name": "landing-page-reactjs-materialui",
   "version": "0.1.0",
-  "homepage": "https://supremozee.github.io/",
+  "homepage": "https://supremozee.github.io/waowx-lp",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.10.5",
@@ -44,7 +44,7 @@
       "last 1 safari version"
     ]
   },
-  "description": "Site: https://hbsales.onrender.com/",
+  "description": "Site:https://supremozee.github.io/waowx-lp",
   "main": "index.js",
   "author": "",
   "license": "ISC",

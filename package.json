@@ -1,7 +1,7 @@
 {
-  "name": "landing-page-reactjs-materialui",
+  "name": "waowx-landingpage",
   "version": "0.1.0",
-  "homepage": "https://supremozee.github.io/",
+  "homepage": "https://supremozee.github.io/home",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.10.5",
@@ -44,7 +44,7 @@
       "last 1 safari version"
     ]
   },
-  "description": "Site:https://supremozee.github.io/waowx-lp",
+  "description": "Site:https://supremozee.github.io/home",
   "main": "index.js",
   "author": "",
   "license": "ISC",
